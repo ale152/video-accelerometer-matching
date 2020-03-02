@@ -1,0 +1,6 @@
+\begin{{tabular}}{{cccccc}}
+\hline
+                      & \textit{{DSDA}} & \textit{{DSSA}} & \textit{{SSSA}} & \textit{{OVLP}} & \textit{{AVG}}             \\ \hline
+Shigeta \textit{{et al.}}        & {shi_dsda:.1f}          & {shi_dssa:.1f}          & {shi_sssa:.1f}          & {shi_prev:.1f} & {shi_avg:.1f} \\
+Cabrera-Quiros \textit{{et al.}} & {cab_dsda:.1f}          & {cab_dssa:.1f}          & {cab_sssa:.1f}          & {cab_prev:.1f} & {cab_avg:.1f}
+\end{{tabular}}
